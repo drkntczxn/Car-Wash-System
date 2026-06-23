@@ -29,7 +29,7 @@
                         $row[wash_type] -
                         $row[wax]<br> 
                         <a href=delete.php?id=$row[id_cust]>Delete</a> |
-                        <a href=edit.php?id=$row[id_cust]>Edit (NWY)</a>";
+                        <a href=edit.php?id=$row[id_cust]> Edit </a>";
                     echo"</div>";
                 }
                 ?>
